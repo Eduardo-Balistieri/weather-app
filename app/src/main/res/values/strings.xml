@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+
+    <string name="january">jan</string>
+    <string name="february">feb</string>
+    <string name="march">mar</string>
+    <string name="april">apr</string>
+    <string name="may">may</string>
+    <string name="june">jun</string>
+    <string name="july">jul</string>
+    <string name="august">aug</string>
+    <string name="september">sep</string>
+    <string name="october">oct</string>
+    <string name="november">nov</string>
+    <string name="december">dec</string>
+
+    <string name="unknown">Unknown</string>
+
+    <!-- Weather conditions -->
+    <string name="sunny">Sunny</string>
+    <string name="rainy">Rainy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="stormy">Stormy</string>
+    <string name="windy">Windy</string>
+    <string name="snowy">Snowy</string>
+
+    <!-- -->
+
+    <string name="today">Today</string>
+    <string name="next_days">Next days</string>
+
+    <string name="humidity">Humidity</string>
+    <string name="chance_of_precipitation">Chance of precipitation</string>
+
+    <string name="search_screen_hint">You can search by a city, country, etc …</string>
+    <string name="search_box_placeholder">Search</string>
+
+
+    <!-- Images/Icons descriptions -->
+    <string name="search_icon">Search icon</string>
+    <string name="current_weather_icon">Current weather icon</string>
+    <string name="forecast_weather_icon">Forecast weather icon</string>
+    <string name="forecast_illustration">Weather forecast illustration</string>
+    <string name="place_icon">Place icon</string>
+</resources>

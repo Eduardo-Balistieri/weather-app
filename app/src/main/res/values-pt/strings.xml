@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="sunday">Domingo</string>
+    <string name="monday">Segunda</string>
+    <string name="tuesday">Terça</string>
+    <string name="wednesday">Quarta</string>
+    <string name="thursday">Quinta</string>
+    <string name="friday">Sexta</string>
+    <string name="saturday">Sabado</string>
+
+    <string name="january">jan</string>
+    <string name="february">fev</string>
+    <string name="march">mar</string>
+    <string name="april">abr</string>
+    <string name="may">mai</string>
+    <string name="june">jun</string>
+    <string name="july">jul</string>
+    <string name="august">ago</string>
+    <string name="september">set</string>
+    <string name="october">out</string>
+    <string name="november">nov</string>
+    <string name="december">dez</string>
+
+    <string name="unknown">Desconhecido</string>
+
+    <!-- Weather conditions -->
+    <string name="sunny">Ensolarado</string>
+    <string name="rainy">Chuvoso</string>
+    <string name="cloudy">Nublado</string>
+    <string name="stormy">Tempestuoso</string>
+    <string name="windy">Ventoso</string>
+    <string name="snowy">Nevoso</string>
+
+    <!-- -->
+
+    <string name="today">Hoje</string>
+    <string name="next_days">Próximos dias</string>
+
+    <string name="humidity">Umidade</string>
+    <string name="chance_of_precipitation">Chance de precipitação</string>
+
+    <string name="search_screen_hint">Você pode pesquisar por uma cidade, país, etc …</string>
+    <string name="search_box_placeholder">Pesquisar</string>
+
+
+    <!-- Images/Icons descriptions -->
+    <string name="search_icon">Ícone de pesquisa</string>
+    <string name="current_weather_icon">Ícone do clima atual</string>
+    <string name="forecast_weather_icon">Ícone da previsão do tempo</string>
+    <string name="forecast_illustration">Ilustração da previsão do tempo</string>
+    <string name="place_icon">Ícone de localização</string>
+</resources>
